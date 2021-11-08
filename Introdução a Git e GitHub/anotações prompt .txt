@@ -1,0 +1,8 @@
+dir = listar todos os arquivos
+cls = limpar o terminar
+cd + nome do arquivo = navegar
+mkdir = criar pasta
+echo hello >hello.txt = criar pasta nome hello.txt
+del = deletar
+seta para cima = passar pelo comandos ja usadados
+rmdir workspace /s /q= remover tudo que esta no diretorio 

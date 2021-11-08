@@ -1,0 +1,27 @@
+  <center>
+        <header>cabeçalho pagina</header>
+    </center>
+
+
+        <article>coteudo relevante</article>
+        <aside>conteudo relacioado ao relevante</aside>
+ 
+
+    <section>sessão generica de coteudo</section>
+    <footer>rodape</footer>
+<p>coteudo do artigo - paragrafo</p>
+<a> ancora </a>
+
+<a target ="_black">link</a> abrir link em outra pagina
+
+<img alt="melhorar acessibilidade"
+
+listas:
+
+ul = ordem não importa
+
+ol = ordem importa
+
+li = item da lista
+
+malito = usar no email

@@ -1,0 +1,28 @@
+-git init = inicial repositorio
+-git add = mover arquivos
+-git commit = criar primeiro commit
+ls - a = mostrar arquivos ocultos
+cd.. = voltar
+
+difinir autor :
+$ git config  --global user.email "vyctorbruno892@gmail.com"
+ git config --global user.name Victor Bruno
+
+
+ criar commit = $ git commit -m "commit inicial"
+
+git status = monitorias status dos arquivos
+
+git config --list = traz toda a lista de configurações
+
+git clone = clonar arquivos do git hub
+$ git clone https://github.com/python/cpython.git
+
+A tradução de pull do inglês para o português é puxar, então o git pull puxa, 
+traz as alterações de um repositório remoto para o local. Já push é empurrar, 
+então o git pushempurra, leva as alterações do repositório local para o remoto.
+
+git remote -v = mostrar os repositorios remotos estão apontados
+
+
+
